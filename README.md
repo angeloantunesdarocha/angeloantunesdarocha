@@ -1,14 +1,8 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:0ea5e9&height=220&section=header&text=Ângelo%20Antunes&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%20Python%20%7C%20Automação%20%7C%20IA&descAlignY=58&descSize=18)
-
 # Olá, eu sou Ângelo Antunes 👋
 
 **Estudante de Bacharelado em Sistemas de Informação (IFNMG – Campus Porteirinha).**  
 Desenvolvedor em formação, com foco em **desenvolvimento web, Python, automação e Inteligência Artificial**.  
 Compartilho aqui minha evolução por meio de **projetos práticos e aplicações reais**.
-
-</div>
 
 ---
 
@@ -35,12 +29,8 @@ Tenho interesse especial por:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![AI](https://img.shields.io/badge/Inteligência%20Artificial-111827?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/Inteligência%20Artificial-111827?style=for-the-badge)
 
 </div>
 
@@ -114,18 +104,8 @@ Procuro manter meus projetos com:
 
 ## 📫 Contato
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-angeloantunesdarocha-181717?style=for-the-badge&logo=github)](https://github.com/angeloantunesdarocha)
-
-</div>
+[GitHub: angeloantunesdarocha](https://github.com/angeloantunesdarocha)
 
 ---
 
-<div align="center">
-
 **Em constante evolução, construindo projetos práticos e aprendendo todos os dias.**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e40af,100:0f172a&height=120&section=footer)
-
-</div>
