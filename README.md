@@ -1,8 +1,14 @@
+<div align="center">
+
+<img src="./assets/banner.svg" alt="Banner Ângelo Antunes" width="100%" />
+
 # Olá, eu sou Ângelo Antunes 👋
 
 **Estudante de Bacharelado em Sistemas de Informação (IFNMG – Campus Porteirinha).**  
 Desenvolvedor em formação, com foco em **desenvolvimento web, Python, automação e Inteligência Artificial**.  
 Compartilho aqui minha evolução por meio de **projetos práticos e aplicações reais**.
+
+</div>
 
 ---
 
@@ -108,4 +114,8 @@ Procuro manter meus projetos com:
 
 ---
 
+<div align="center">
+
 **Em constante evolução, construindo projetos práticos e aprendendo todos os dias.**
+
+</div>
