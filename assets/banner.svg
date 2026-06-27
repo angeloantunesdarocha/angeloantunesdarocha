@@ -1,0 +1,32 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#1E40AF"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 80) rotate(132) scale(260 220)">
+      <stop stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow)"/>
+  <path d="M0 250 C180 190 320 310 500 245 C720 165 830 280 1200 180 V320 H0 V250Z" fill="#020617" fill-opacity="0.35"/>
+  <g opacity="0.22" stroke="#E0F2FE" stroke-width="1">
+    <path d="M760 55 H1120"/>
+    <path d="M790 95 H1080"/>
+    <path d="M820 135 H1140"/>
+    <circle cx="760" cy="55" r="4" fill="#E0F2FE"/>
+    <circle cx="790" cy="95" r="4" fill="#E0F2FE"/>
+    <circle cx="820" cy="135" r="4" fill="#E0F2FE"/>
+    <circle cx="1120" cy="55" r="4" fill="#E0F2FE"/>
+    <circle cx="1080" cy="95" r="4" fill="#E0F2FE"/>
+    <circle cx="1140" cy="135" r="4" fill="#E0F2FE"/>
+  </g>
+  <text x="70" y="125" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Ângelo Antunes</text>
+  <text x="72" y="175" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500">Estudante de Sistemas de Informação • Desenvolvedor em Formação</text>
+  <text x="72" y="222" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Desenvolvimento Web  |  Python  |  Automação  |  Inteligência Artificial</text>
+  <rect x="72" y="250" width="340" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.12" stroke="#BAE6FD" stroke-opacity="0.35"/>
+  <text x="95" y="276" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">IFNMG • Campus Porteirinha/MG</text>
+</svg>
