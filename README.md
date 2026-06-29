@@ -36,6 +36,13 @@ Landing page profissional para um Studio de Beleza, com design responsivo, integ
 - Deploy: [studio-tarcia-madureira.vercel.app](https://studio-tarcia-madureira.vercel.app/)
 - Tecnologias: HTML, CSS, JavaScript, Vercel
 
+### 🚰 HydraCarry
+Landing page moderna e responsiva para um produto real (bolsa transversal com suporte para copo tumbler). Conta com galeria interativa, *lightbox* modal, captura de leads via e-mail e deploy em produção.
+
+- Repositório: [hydracarry](https://github.com/angeloantunesdarocha/hydracarry)
+- Deploy: [hydracarry.vercel.app](https://hydracarry.vercel.app/)
+- Tecnologias: HTML5, CSS3, JavaScript (vanilla), Vercel
+
 ---
 
 ## 📚 Repositórios de estudo
