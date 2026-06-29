@@ -12,21 +12,6 @@ Compartilho aqui minha evolução por meio de **projetos práticos e aplicaçõe
 
 ---
 
-## 🚀 Sobre mim
-
-Atualmente estou construindo minha base técnica com projetos que unem estudo, prática e aplicação real. Meu objetivo é evoluir como desenvolvedor criando soluções simples, funcionais e bem documentadas.
-
-Tenho interesse especial por:
-
-- Desenvolvimento Web
-- Python
-- Automação de tarefas
-- Inteligência Artificial aplicada ao desenvolvimento
-- Git, GitHub e boas práticas de versionamento
-- Criação de sites profissionais para negócios locais
-
----
-
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
