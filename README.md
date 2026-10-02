@@ -6,7 +6,7 @@
 
 **Estudante de Sistemas de Informação no IFNMG — Campus Porteirinha**  
 Profissional em transição da vigilância patrimonial para a área de tecnologia.  
-**Buscando estágio em desenvolvimento de software.** Janaúba, MG · presencial, híbrido ou remoto.
+**Buscando estágio em desenvolvimento de software, suporte ou operações de TI.** Janaúba, MG · presencial, híbrido ou remoto.
 
 </div>
 
@@ -14,9 +14,9 @@ Profissional em transição da vigilância patrimonial para a área de tecnologi
 
 ## Sobre mim
 
-Tenho mais de 10 anos de experiência profissional em segurança e vigilância patrimonial. Estou cursando Sistemas de Informação e direcionando minha carreira para desenvolvimento de software. Minha experiência anterior fortaleceu minha responsabilidade, atenção a procedimentos e capacidade de agir com cuidado em situações que exigem atenção.
+Tenho mais de 10 anos de experiência profissional em segurança e vigilância patrimonial. Essa trajetória me deu prática em seguir procedimentos, manter atenção durante rotinas e agir com responsabilidade. Agora, estou cursando Sistemas de Informação e direcionando minha carreira para tecnologia.
 
-Uso este GitHub para documentar meus estudos e mostrar projetos que estou desenvolvendo. No momento, estudo lógica de programação, Python, análise de sistemas e bancos de dados.
+Estudo lógica de programação, Python, análise de sistemas e bancos de dados. Desenvolvo projetos para aplicar o que aprendo e mostrar como organizo problemas e soluções.
 
 ## Projeto em destaque
 
