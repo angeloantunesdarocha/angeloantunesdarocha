@@ -6,7 +6,7 @@
 
 **Estudante de Sistemas de Informação no IFNMG — Campus Porteirinha**  
 Profissional em transição da vigilância patrimonial para a área de tecnologia.  
-**Buscando estágio em desenvolvimento de software, suporte ou operações de TI.** Janaúba, MG · presencial, híbrido ou remoto.
+**Buscando estágio em desenvolvimento, suporte ou operações de TI.** Porteirinha, MG · aberto a oportunidades remotas e presenciais na região.
 
 </div>
 
@@ -14,31 +14,30 @@ Profissional em transição da vigilância patrimonial para a área de tecnologi
 
 ## Sobre mim
 
-Tenho mais de 10 anos de experiência profissional em segurança e vigilância patrimonial. Essa trajetória me deu prática em seguir procedimentos, manter atenção durante rotinas e agir com responsabilidade. Agora, estou cursando Sistemas de Informação e direcionando minha carreira para tecnologia.
+Tenho mais de 10 anos de experiência profissional em vigilância patrimonial. Atualmente curso o 2º período de Sistemas de Informação no IFNMG e estou começando minha transição para tecnologia.
 
-Estudo lógica de programação, Python, análise de sistemas e bancos de dados. Desenvolvo projetos para aplicar o que aprendo e mostrar como organizo problemas e soluções.
+Estou aprendendo lógica de programação, Python, desenvolvimento web e fundamentos de sistemas. **Todos os projetos publicados neste GitHub foram feitos com auxílio de ferramentas de inteligência artificial.** Eles são projetos de estudo e portfólio: uso-os para aprender sobre requisitos, tecnologias e estrutura de aplicações, sem apresentá-los como experiência profissional ou como código produzido inteiramente de forma independente.
 
 ## Projeto em destaque
 
 ### FaturApp
 
-Aplicação web para motoristas e entregadores acompanharem receitas, despesas e lucro líquido do trabalho.
+Aplicação de estudo para motoristas e entregadores acompanharem receitas, despesas e lucro líquido do trabalho.
 
 - **Demonstração:** [fatur-app.vercel.app/comece](https://fatur-app.vercel.app/comece)
 - **Repositório:** [angeloantunesdarocha/FaturApp](https://github.com/angeloantunesdarocha/FaturApp)
-- **Tecnologias usadas no projeto:** Next.js 15, React 19, TypeScript, Supabase e Tailwind CSS
-- **O que o projeto demonstra:** motor de cálculo financeiro, autenticação, relatórios e testes automatizados para cálculos, exportações e segurança
+- **Tecnologias presentes no projeto:** Next.js 15, React 19, TypeScript, Supabase e Tailwind CSS
+- **Transparência:** construído com auxílio de IA; está em meu portfólio de aprendizagem, não como experiência profissional independente.
 
 ### Outros projetos
 
-- [Studio Tarcia Madureira](https://github.com/angeloantunesdarocha/studio-tarcia-madureira) — site responsivo com serviços, galeria, localização e agendamento por WhatsApp.
-- [HydraCarry](https://github.com/angeloantunesdarocha/hydracarry) — site de produto com galeria interativa e layout responsivo.
+- [Studio Tarcia Madureira](https://github.com/angeloantunesdarocha/studio-tarcia-madureira) — projeto de estudo de site responsivo para serviços, galeria, localização e agendamento.
+- [HydraCarry](https://github.com/angeloantunesdarocha/hydracarry) — projeto de estudo de página de produto responsiva.
 - [Exercícios de Python no IFNMG](https://github.com/angeloantunesdarocha/exercicios-python-ifnmg) — práticas de lógica de programação e fundamentos de Python.
 
-## Tecnologias e estudos
+## Tecnologias em aprendizagem
 
-- **Aplicadas em projetos:** TypeScript, Next.js, React, Supabase, Tailwind CSS, HTML, CSS e JavaScript.
-- **Em desenvolvimento:** Python, lógica de programação, análise de sistemas e bancos de dados.
+As tecnologias listadas aparecem nos projetos ou estudos, que foram realizados com apoio de IA. Estou consolidando os fundamentos e não as apresento como domínio profissional: TypeScript, Next.js, React, Supabase, Tailwind CSS, HTML, CSS, JavaScript e Python.
 
 ## Contato
 
