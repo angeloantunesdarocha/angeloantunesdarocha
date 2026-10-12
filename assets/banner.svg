@@ -25,8 +25,8 @@
     <circle cx="1140" cy="135" r="4" fill="#E0F2FE"/>
   </g>
   <text x="70" y="125" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Ângelo Antunes</text>
-  <text x="72" y="175" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500">Estudante de Sistemas de Informação • Desenvolvedor em Formação</text>
-  <text x="72" y="222" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Desenvolvimento Web  |  Python  |  Automação  |  Inteligência Artificial</text>
+  <text x="72" y="175" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500">Desenvolvedor Full-Stack • Estudante de Sistemas de Informação</text>
+  <text x="72" y="222" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Next.js  |  TypeScript  |  React  |  Supabase</text>
   <rect x="72" y="250" width="340" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.12" stroke="#BAE6FD" stroke-opacity="0.35"/>
-  <text x="95" y="276" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">IFNMG • Campus Porteirinha/MG</text>
+  <text x="95" y="276" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">FaturApp • ProntoDoc • Janaúba/MG</text>
 </svg>
